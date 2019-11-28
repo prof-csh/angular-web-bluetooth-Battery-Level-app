@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+span {
+  position: absolute;
+  color: gray;
+  bottom: 0;
+}
+
+span a {
+  color: grey;
+}
